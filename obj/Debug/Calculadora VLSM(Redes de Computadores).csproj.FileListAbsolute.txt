@@ -1,0 +1,9 @@
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\bin\Debug\Calculadora VLSM(Redes de Computadores).exe.config
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\bin\Debug\Calculadora VLSM(Redes de Computadores).exe
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\bin\Debug\Calculadora VLSM(Redes de Computadores).pdb
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\obj\Debug\Calculadora_VLSM_Redes_de_Computadores_.Properties.Resources.resources
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\obj\Debug\Calculadora_VLSM_Redes_de_Computadores_.Form1.resources
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\obj\Debug\Calculadora VLSM(Redes de Computadores).csproj.GenerateResource.cache
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\obj\Debug\Calculadora VLSM(Redes de Computadores).exe
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\obj\Debug\Calculadora VLSM(Redes de Computadores).pdb
+C:\Users\cellnote\source\repos\Calculadora VLSM(Redes de Computadores)\obj\Debug\Calculadora VLSM(Redes de Computadores).csprojAssemblyReference.cache
