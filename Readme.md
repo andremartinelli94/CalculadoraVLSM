@@ -6,4 +6,4 @@ Alunos : André Martinelli
 	 Carlos Klein
 	 Daniel Sens
 
-![./ImgProg.png](Calculadora VLSM)
+![./ImgProg.PNG](Calculadora VLSM)
